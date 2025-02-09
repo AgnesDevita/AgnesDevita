@@ -1,4 +1,8 @@
-<p align="left">Hi, I'm Agnes Devita, a 4th-semester student at Universitas Multimedia Nusantara, passionate about technology and innovation.</p>
+<h2 align="left">Punten</h2>
+
+###
+
+<p align="left">I'm Agnes Devita, a 4th-semester student at Universitas Multimedia Nusantara, passionate about technology and innovation.</p>
 
 ###
 
