@@ -44,10 +44,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif?cid=790b7611h1vakwbgul9cbnmfq3jsrfyn93msql07e4qf3g0q&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
