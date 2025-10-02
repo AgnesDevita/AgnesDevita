@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Agnes Devita, a 4th-semester student at Universitas Multimedia Nusantara, passionate about technology and innovation.</p>
+<p align="left">I'm Agnes Devita, a 5th-semester student at Universitas Multimedia Nusantara, passionate about technology and innovation.</p>
 
 ###
 
